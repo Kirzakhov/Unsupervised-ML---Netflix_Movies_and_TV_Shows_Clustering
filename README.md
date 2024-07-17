@@ -35,13 +35,13 @@ The project employs several unsupervised learning techniques, including:
 <a href="https://pypi.org/project/wordcloud/" target="_blank"><img src="https://img.shields.io/badge/wordcloud-cyan?style=flat-square&logo=wordcloud&logoColor=white&link=https://pypi.org/project/wordcloud/" alt="wordcloud" width="84" height="25"></a>
 <a href="https://www.nltk.org/" target="_blank"><img src="https://img.shields.io/badge/nltk-pink?style=flat-square&logo=nltk&logoColor=white&link=https://www.nltk.org/" alt="nltk" width="84" height="25"></a>
 <a href="https://pypi.org/project/beautifulsoup4/" target="_blank"><img src="https://img.shields.io/badge/beautifulsoup4-orange?style=flat-square&logo=beautifulsoup4&logoColor=white&link=https://pypi.org/project/beautifulsoup4/" alt="beautifulsoup4" width="84" height="25"></a>
-<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/scikit-learn-purple?style=flat-square&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/" alt="scikit-learn" width="84" height="25"></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://img.shields.io/badge/scikit-learn?style=flat-square&logo=scikit-learn&logoColor=white&link=https://scikit-learn.org/stable/" alt="scikit-learn" width="84" height="25"></a>
 <a href="https://docs.python.org/2/library/string.html" target="_blank"><img src="https://img.shields.io/badge/string-green?style=flat-square&logo=string&logoColor=white&link=https://docs.python.org/2/library/string.html" alt="string" width="84" height="25"></a>
 <a href="https://scipy.org/" target="_blank"><img src="https://img.shields.io/badge/scipy-grey?style=flat-square&logo=scipy&logoColor=white&link=https://scipy.org/" alt="scipy" width="84" height="25"></a>
 
 **Conclusion:**
 
-The results of the clustering and other analyses are saved in the results directory. Key findings include:
+The results of the clustering and other analyses are saved in the Jupyter notebook. Key findings include:
 
 *  Identification of distinct user groups based on viewing habits.
 *  Insights into popular genres and their audience segments.
